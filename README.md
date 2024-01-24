@@ -17,7 +17,7 @@ This Hangman Game project, completed in January 2023, is a classic implementatio
 
 ## Credits
 
-This project draws inspiration from Cory Althoff, the author of "The Self-taught Programmer." To see Cory Althoff's version of the Hangman game, you can visit [his project here](http://tinyurl.com/h9q2cpc).
+This project draws inspiration from Cory Althoff, the author of "The Self-taught Programmer." To see Cory Althoff's version of the Hangman game, you can visit his project [here](http://tinyurl.com/h9q2cpc).
 
 
 ## How to Play
